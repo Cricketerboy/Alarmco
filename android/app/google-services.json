@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612044229118",
+    "project_id": "alarmco-ad13f",
+    "storage_bucket": "alarmco-ad13f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612044229118:android:9218a9f8b9ba601a8458af",
+        "android_client_info": {
+          "package_name": "com.example.alarmco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4nktsRYuvtgmFzwMg1rhlkxyLUJk4dEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
